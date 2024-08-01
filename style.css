@@ -1,0 +1,66 @@
+body {
+	background: #000;
+}
+
+.ATV {
+	margin-top: -8px;
+	margin-bottom: -8px;
+	margin-left: auto;
+    	margin-right: auto;
+	place-items: center;
+	display: grid;
+}
+
+.Paintball {
+	margin-top: -8px;
+	margin-bottom: -8px;
+	margin-left: auto;
+    	margin-right: auto;
+	place-items: center;
+	display: grid;
+}
+
+.Campsite {
+	margin-top: -8px;
+	margin-bottom: -8px;
+	margin-left: auto;
+    	margin-right: auto;
+	place-items: center;
+	display: grid;
+}
+
+.AboutUs {
+	margin-top: -8px;
+	margin-bottom: -8px;
+	margin-left: auto;
+    	margin-right: auto;
+	place-items: center;
+	display: grid;
+}
+
+.ATVGallery {
+	margin-top: -8px;
+	margin-bottom: -8px;
+	margin-left: auto;
+    	margin-right: auto;
+	place-items: center;
+	display: grid;
+}
+
+.PaintballGallery {
+	margin-top: -8px;
+	margin-bottom: -8px;
+	margin-left: auto;
+    	margin-right: auto;
+	place-items: center;
+	display: grid;
+}
+
+.CampsiteGallery {
+	margin-top: -8px;
+	margin-bottom: -8px;
+	margin-left: auto;
+    	margin-right: auto;
+	place-items: center;
+	display: grid;
+}
