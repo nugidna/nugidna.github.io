@@ -74,6 +74,6 @@ body {
     	margin-right: auto;
 	place-items: center;
 	display: grid;
-	height: 765px;
+	height: auto;
 }
 }
