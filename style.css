@@ -64,3 +64,16 @@ body {
 	place-items: center;
 	display: grid;
 }
+
+
+@media only screen and (max-width: 800px){
+.ATV {
+	margin-top: -8px;
+	margin-bottom: -8px;
+	margin-left: auto;
+    	margin-right: auto;
+	place-items: center;
+	display: grid;
+	height: 100%;
+}
+}
