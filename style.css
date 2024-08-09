@@ -11,9 +11,10 @@ body {
 	display: grid;
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 600px) {
 img {
 	height:2048px;
+	width:auto;
     }
 }
 
