@@ -11,7 +11,7 @@ body {
 	display: grid;
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1100px) {
 img {
 	height:2048px;
     }
